@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"log"
 
+	// https://daido.hatenablog.jp/entry/2020/09/17/154228
+	// https://qiita.com/ryysud/items/1cf66ee4363aec22394a
 	_ "github.com/mattn/go-sqlite3"
 )
 
